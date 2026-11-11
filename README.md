@@ -7,7 +7,7 @@ An Oracle PL/SQL project for managing customers and their food orders. It genera
 - Records item quantities, prices, and order statuses.
 - Calculates and displays each order’s items and total cost.
 
-[Output-records.csv](Output/Output-records.csv) 
+[Output-records.csv](output/Output-records.csv) 
 
 ## Tools Used
 - Oracle Database — stores customer, menu, and order data.
