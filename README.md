@@ -12,6 +12,7 @@ An Oracle PL/SQL project for managing customers and their food orders. It genera
 - PL/SQL — implements order-processing procedures and triggers.
 - Oracle sequences — generate unique five-digit order IDs.
 - Oracle SQL Developer or Oracle Live SQL — run the scripts (list the one you actually used).
+  
 [Output](Output-records.csv) 
 
 
