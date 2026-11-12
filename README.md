@@ -6,13 +6,13 @@ An Oracle PL/SQL project for managing customers and their food orders. It genera
 - Uses PL/SQL procedures to create orders and add items.
 - Records item quantities, prices, and order statuses.
 - Calculates and displays each order’s items and total cost.
-
-[Output](Output-records.csv) 
-
 ## Tools Used
 - Oracle Database — stores customer, menu, and order data.
 - SQL — creates tables and retrieves order details.
 - PL/SQL — implements order-processing procedures and triggers.
 - Oracle sequences — generate unique five-digit order IDs.
 - Oracle SQL Developer or Oracle Live SQL — run the scripts (list the one you actually used).
+[Output](Output-records.csv) 
+
+
 
